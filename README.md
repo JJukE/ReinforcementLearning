@@ -12,4 +12,4 @@ INcludes:
 
 ### Docker Hub
 You can directly pull the built image from Docker Hub by running
-"""docker pull jaimeps/rl-gym"""
+'''docker pull jaimeps/rl-gym'''
