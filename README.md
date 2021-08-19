@@ -12,6 +12,28 @@ INcludes:
 
 ### Docker Hub
 You can directly pull the built image from Docker Hub by running
-'''sh
+
+```
 docker pull jaimeps/rl-gym
-'''
+```
+
+### Rendering on Jupyter notebook
+The virtual frame buffer allows the video from the gym environments to be rendered on jupyter notebooks. Simple example with Breakout:
+
+```
+import gym
+from IPython import display
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+env = gym.make('Breakout-v0')
+env.reset()
+for _ in range(1000):
+  plt.imshow(env.render(mode='rgb_array'))
+  display.clear_output(wait=True)
+  display.display(plt.gcf())
+  env.step(env.action_space.sample())
+```
+
+### Reference
+github : https://github.com/jaimeps/docker-rl-gym
