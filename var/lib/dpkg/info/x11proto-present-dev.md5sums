@@ -1,0 +1,6 @@
+b14629122d4550bc359a3a79ddafb152  usr/include/X11/extensions/presentproto.h
+19a92a04cf302de089ae1d15d456d1ea  usr/include/X11/extensions/presenttokens.h
+6490ecf15443d18239678426fe74f102  usr/share/doc/x11proto-present-dev/changelog.Debian.gz
+f4393cfc6bffe79f7d4ba25b2190cfc4  usr/share/doc/x11proto-present-dev/copyright
+52c39dd6f98fe53f2a6b15184a997829  usr/share/doc/x11proto-present-dev/presentproto.txt.gz
+872061c88266ef886e8e889cac1a61f5  usr/share/pkgconfig/presentproto.pc

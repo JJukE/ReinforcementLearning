@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/xcmiscproto.h
+/usr/include/X11/extensions/xcmiscstr.h
+/usr/share
+/usr/share/doc
+/usr/share/doc/x11proto-xcmisc-dev
+/usr/share/doc/x11proto-xcmisc-dev/xc-misc.txt.gz
+/usr/share/doc/x11proto-xcmisc-dev/xc-misc.html
+/usr/share/doc/x11proto-xcmisc-dev/changelog.Debian.gz
+/usr/share/doc/x11proto-xcmisc-dev/copyright
+/usr/share/pkgconfig
+/usr/share/pkgconfig/xcmiscproto.pc

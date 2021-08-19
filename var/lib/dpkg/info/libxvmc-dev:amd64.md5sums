@@ -1,0 +1,6 @@
+164b85028665f8fdb563f35d7739c2f9  usr/include/X11/extensions/XvMClib.h
+eab41b396959997a5470f1bdf4239281  usr/lib/x86_64-linux-gnu/libXvMC.a
+9952572025692ccefae628b21f227ea9  usr/lib/x86_64-linux-gnu/libXvMCW.a
+2f7954b3fd84efd1ade7137ae572d07e  usr/lib/x86_64-linux-gnu/pkgconfig/xvmc.pc
+35a5ec85115a485c4febf857834e54e2  usr/share/doc/libxvmc-dev/XvMC_API.txt.gz
+c7029a869e1056d09e33cf0c33cdb885  usr/share/doc/libxvmc-dev/copyright

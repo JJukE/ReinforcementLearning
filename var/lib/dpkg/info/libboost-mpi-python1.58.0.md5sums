@@ -1,0 +1,8 @@
+13108222afa68f13c8bef52e5e3bad77  usr/lib/python2.7/dist-packages/boost/__init__.py
+4e2613fc67dc859f6ff91648f013c344  usr/lib/python2.7/dist-packages/boost/mpi.x86_64-linux-gnu.so
+13108222afa68f13c8bef52e5e3bad77  usr/lib/python3.5/site-packages/boost/__init__.py
+c3f18e18918d920f98df0003e8eca860  usr/lib/python3.5/site-packages/boost/mpi.so
+f30c89a8a5e3ba4478a013e2793aa7ed  usr/lib/x86_64-linux-gnu/libboost_mpi_python-py27.so.1.58.0
+b9cfcd8d914a93dd0fae4ba1532f1955  usr/lib/x86_64-linux-gnu/libboost_mpi_python-py35.so.1.58.0
+2f516f3e3c0736b25cc324033945e8ad  usr/share/doc/libboost-mpi-python1.58.0/copyright
+e58cc65b0807f19226c6caa3b986f5eb  usr/share/lintian/overrides/libboost-mpi-python1.58.0

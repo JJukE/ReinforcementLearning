@@ -1,0 +1,5 @@
+597d30a166930880b49a486ec67f4c39  usr/include/X11/extensions/dmx.h
+40baa6c636372d5f3523188172aa0c92  usr/include/X11/extensions/dmxproto.h
+2ed1e1291cde77578a9b06f0349486b5  usr/share/doc/x11proto-dmx-dev/changelog.Debian.gz
+904814967ecced094e418106752530e9  usr/share/doc/x11proto-dmx-dev/copyright
+8196c8b6d77f020d57b777cd66d8ec57  usr/share/pkgconfig/dmxproto.pc

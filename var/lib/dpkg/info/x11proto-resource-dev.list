@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/x11proto-resource-dev
+/usr/share/doc/x11proto-resource-dev/copyright
+/usr/share/doc/x11proto-resource-dev/resproto.txt.gz
+/usr/share/doc/x11proto-resource-dev/changelog.Debian.gz
+/usr/share/pkgconfig
+/usr/share/pkgconfig/resourceproto.pc
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/XResproto.h

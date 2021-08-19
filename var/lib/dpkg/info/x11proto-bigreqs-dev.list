@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/x11proto-bigreqs-dev
+/usr/share/doc/x11proto-bigreqs-dev/bigreq.html
+/usr/share/doc/x11proto-bigreqs-dev/bigreq.txt.gz
+/usr/share/doc/x11proto-bigreqs-dev/changelog.Debian.gz
+/usr/share/doc/x11proto-bigreqs-dev/copyright
+/usr/share/pkgconfig
+/usr/share/pkgconfig/bigreqsproto.pc
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/bigreqstr.h
+/usr/include/X11/extensions/bigreqsproto.h

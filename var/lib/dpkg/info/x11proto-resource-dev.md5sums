@@ -1,0 +1,5 @@
+e1c1e03ea65c39b8f926d1729eae3bc9  usr/include/X11/extensions/XResproto.h
+61a1104ed0078b9063aeda7d0d58fe3d  usr/share/doc/x11proto-resource-dev/changelog.Debian.gz
+5a054484268a0d442786709d62477330  usr/share/doc/x11proto-resource-dev/copyright
+c9ef1e9173803cbbf8f5c53883e4b82d  usr/share/doc/x11proto-resource-dev/resproto.txt.gz
+08248516aca03ebb26414cd9bba9ca8d  usr/share/pkgconfig/resourceproto.pc

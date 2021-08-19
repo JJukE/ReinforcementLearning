@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python-py27.a
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python-py35.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-mpi-python1.58-dev
+/usr/share/doc/libboost-mpi-python1.58-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python.a
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python-py35.so
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python-py27.so
+/usr/lib/x86_64-linux-gnu/libboost_mpi_python.so
+/usr/share/doc/libboost-mpi-python1.58-dev/changelog.Debian.gz

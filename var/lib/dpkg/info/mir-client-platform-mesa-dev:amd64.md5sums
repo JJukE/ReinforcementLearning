@@ -1,0 +1,5 @@
+97eb37ffbeddc33f335524fe6c99ac4e  usr/include/mirplatform/mir_toolkit/mesa/native_display.h
+949783349ed1987661dba65ace3ea9ba  usr/include/mirplatform/mir_toolkit/mesa/platform_operation.h
+7bdb8acffc6e59d7d2afa62141bb5ccc  usr/lib/x86_64-linux-gnu/pkgconfig/mir-client-platform-mesa.pc
+aff78fd149f3a62c60c880334dcbac80  usr/share/doc/mir-client-platform-mesa-dev/changelog.Debian.gz
+f09530539d0049a378a060cdf507d4fb  usr/share/doc/mir-client-platform-mesa-dev/copyright

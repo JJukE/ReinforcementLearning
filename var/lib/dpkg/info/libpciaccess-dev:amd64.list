@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libpciaccess-dev
+/usr/share/doc/libpciaccess-dev/copyright
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libpciaccess.a
+/usr/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/x86_64-linux-gnu/pkgconfig/pciaccess.pc
+/usr/include
+/usr/include/pciaccess.h
+/usr/share/doc/libpciaccess-dev/changelog.Debian.gz
+/usr/lib/x86_64-linux-gnu/libpciaccess.so

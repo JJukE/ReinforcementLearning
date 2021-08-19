@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfontenc-dev
+/usr/share/doc/libfontenc-dev/copyright
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libfontenc.a
+/usr/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/x86_64-linux-gnu/pkgconfig/fontenc.pc
+/usr/include
+/usr/include/X11
+/usr/include/X11/fonts
+/usr/include/X11/fonts/fontenc.h
+/usr/share/doc/libfontenc-dev/changelog.Debian.gz
+/usr/lib/x86_64-linux-gnu/libfontenc.so

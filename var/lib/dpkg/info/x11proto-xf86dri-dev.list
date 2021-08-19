@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/x11proto-xf86dri-dev
+/usr/share/doc/x11proto-xf86dri-dev/copyright
+/usr/share/doc/x11proto-xf86dri-dev/changelog.Debian.gz
+/usr/share/pkgconfig
+/usr/share/pkgconfig/xf86driproto.pc
+/usr/include
+/usr/include/X11
+/usr/include/X11/dri
+/usr/include/X11/dri/xf86dri.h
+/usr/include/X11/dri/xf86driproto.h
+/usr/include/X11/dri/xf86dristr.h

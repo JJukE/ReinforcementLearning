@@ -1,0 +1,7 @@
+3313e18e2c666e9816b96b944532a5fe  usr/include/X11/extensions/xcmiscproto.h
+5da1b54281f6c60b5c0ebd3217d7251d  usr/include/X11/extensions/xcmiscstr.h
+7dff8c5e8a48d4afbc28e7cca022f025  usr/share/doc/x11proto-xcmisc-dev/changelog.Debian.gz
+98ad216b95903c5f2fa6d758b4221f16  usr/share/doc/x11proto-xcmisc-dev/copyright
+67dc2e8b7c3a0fdabb51eb8d8284eca2  usr/share/doc/x11proto-xcmisc-dev/xc-misc.html
+c0aa6d60ed19a9dc92ef7847ac78794e  usr/share/doc/x11proto-xcmisc-dev/xc-misc.txt.gz
+2dfe493341f00744a42b844f72075759  usr/share/pkgconfig/xcmiscproto.pc

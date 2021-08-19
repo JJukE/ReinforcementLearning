@@ -1,0 +1,5 @@
+30954db3d0bbd92cbdca94115a47c2ee  usr/include/X11/extensions/dri3proto.h
+75a9b7d981974149113982447510c0e8  usr/share/doc/x11proto-dri3-dev/changelog.Debian.gz
+f4393cfc6bffe79f7d4ba25b2190cfc4  usr/share/doc/x11proto-dri3-dev/copyright
+9c8fa3df0b496c0f0c4fb4b8b3925c7f  usr/share/doc/x11proto-dri3-dev/dri3proto.txt.gz
+4315b9d3ce127200b8cbefbf04e6d36b  usr/share/pkgconfig/dri3proto.pc

@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/pkgconfig
+/usr/share/pkgconfig/dri3proto.pc
+/usr/share/doc
+/usr/share/doc/x11proto-dri3-dev
+/usr/share/doc/x11proto-dri3-dev/copyright
+/usr/share/doc/x11proto-dri3-dev/dri3proto.txt.gz
+/usr/share/doc/x11proto-dri3-dev/changelog.Debian.gz
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/dri3proto.h

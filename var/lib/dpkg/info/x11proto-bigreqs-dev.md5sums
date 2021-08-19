@@ -1,0 +1,7 @@
+521f0325535cb7191a560040e60e28bf  usr/include/X11/extensions/bigreqsproto.h
+776934e2e5d14c3cf79ed72d0be78207  usr/include/X11/extensions/bigreqstr.h
+54dfc5cb3f881f0b5e5ff7ecc47f2d18  usr/share/doc/x11proto-bigreqs-dev/bigreq.html
+ecab1a2b5d976df9ab040f3a3afecf01  usr/share/doc/x11proto-bigreqs-dev/bigreq.txt.gz
+afb80d146916183d4f33256451639c09  usr/share/doc/x11proto-bigreqs-dev/changelog.Debian.gz
+af28e768ccd6e7c279798938ab8b0fa9  usr/share/doc/x11proto-bigreqs-dev/copyright
+2beb1bb3fca5e9eb8938c502808ed91e  usr/share/pkgconfig/bigreqsproto.pc

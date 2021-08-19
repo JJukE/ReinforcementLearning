@@ -1,0 +1,6 @@
+e50c0c13e702779557baec7e63c78c0e  usr/include/X11/extensions/xf86bigfont.h
+4c69484a01acbd5773326d0abc9aefaa  usr/include/X11/extensions/xf86bigfproto.h
+e159b5669da188ce13cca68707f8b062  usr/include/X11/extensions/xf86bigfstr.h
+29c13f22c79ff98ce1655ea1f63e5421  usr/lib/pkgconfig/xf86bigfontproto.pc
+8e38e6e02111be9d304dbe880244de84  usr/share/doc/x11proto-xf86bigfont-dev/changelog.Debian.gz
+278097a1d4cbfc30236c7e4e933ce4ff  usr/share/doc/x11proto-xf86bigfont-dev/copyright

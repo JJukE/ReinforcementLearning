@@ -1,0 +1,10 @@
+libmca_common_sm 4 libopenmpi1.10
+libmca_common_verbs 7 libopenmpi1.10
+libmpi 12 libopenmpi1.10
+libmpi_cxx 1 libopenmpi1.10
+libmpi_mpifh 12 libopenmpi1.10
+libmpi_usempi_ignore_tkr 6 libopenmpi1.10
+libmpi_usempif08 11 libopenmpi1.10
+libompitrace 0 libopenmpi1.10
+libopen-pal 13 libopenmpi1.10
+libopen-rte 12 libopenmpi1.10

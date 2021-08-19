@@ -1,0 +1,5 @@
+6bdea11e36856e8deeb81215d7967a4b  usr/include/X11/extensions/XRes.h
+bf0f48f25bb5c908d49773ebd2d114e5  usr/lib/x86_64-linux-gnu/libXRes.a
+9d8f3c273e9e139980844694ed05ae93  usr/lib/x86_64-linux-gnu/pkgconfig/xres.pc
+3eee6e3c9993f41d3364a3dea0eefe02  usr/share/doc/libxres-dev/copyright
+40aa065e4f60b9b176053e74e5440d88  usr/share/man/man3/XRes.3.gz

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/x11proto-xf86bigfont-dev
+/usr/share/doc/x11proto-xf86bigfont-dev/copyright
+/usr/share/doc/x11proto-xf86bigfont-dev/changelog.Debian.gz
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/xf86bigfont.h
+/usr/include/X11/extensions/xf86bigfproto.h
+/usr/include/X11/extensions/xf86bigfstr.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xf86bigfontproto.pc

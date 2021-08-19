@@ -1,0 +1,12 @@
+auto
+/usr/lib/libblas.so
+blas.pc
+/usr/lib/pkgconfig/blas.pc
+libblas.a
+/usr/lib/libblas.a
+
+/usr/lib/libblas/libblas.so
+10
+/usr/lib/pkgconfig/blas-netlib.pc
+/usr/lib/libblas/libblas.a
+

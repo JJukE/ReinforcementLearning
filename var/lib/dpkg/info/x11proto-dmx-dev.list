@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/pkgconfig
+/usr/share/pkgconfig/dmxproto.pc
+/usr/share/doc
+/usr/share/doc/x11proto-dmx-dev
+/usr/share/doc/x11proto-dmx-dev/copyright
+/usr/share/doc/x11proto-dmx-dev/changelog.Debian.gz
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/dmxproto.h
+/usr/include/X11/extensions/dmx.h

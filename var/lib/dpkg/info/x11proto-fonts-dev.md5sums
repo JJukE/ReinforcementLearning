@@ -1,0 +1,11 @@
+695e3417c52cfe57411adf5b2b4d4d98  usr/include/X11/fonts/FS.h
+0bc3d09c523e7c259901b4e39f1aa167  usr/include/X11/fonts/FSproto.h
+a41ff5d042660dc9657472c9cc981807  usr/include/X11/fonts/font.h
+82b8376d51d70918c90cbcad8a4314fc  usr/include/X11/fonts/fontproto.h
+83a2b2a763f7c1e423b85aece6a41bc2  usr/include/X11/fonts/fontstruct.h
+4bfc20aced0cbacb54e9d5fba7414335  usr/include/X11/fonts/fsmasks.h
+4b8dc116966695db47937a0ce4b0156b  usr/share/doc/x11proto-fonts-dev/changelog.Debian.gz
+04cb715e7bf1afb04c1674516b9f1f6d  usr/share/doc/x11proto-fonts-dev/copyright
+61db7245e9a73b407f32b6c514459e93  usr/share/doc/x11proto-fonts-dev/fsproto.html
+3b69184ce0b3ba849b666f847dbddd5a  usr/share/doc/x11proto-fonts-dev/fsproto.txt.gz
+49117f67f3250cb0d56c9cad92238292  usr/share/pkgconfig/fontsproto.pc

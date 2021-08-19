@@ -1,0 +1,10 @@
+38af120081266de8ae1d5d8984ddaccc  usr/include/X11/extensions/xf86dga.h
+130a76ad86eb5760a6bfa13325ffad60  usr/include/X11/extensions/xf86dga1const.h
+a1d0c8354b92192230860f7cf311d129  usr/include/X11/extensions/xf86dga1proto.h
+637e6aca6f7acd2287eec14d7d9d538f  usr/include/X11/extensions/xf86dga1str.h
+a69f546e896afde8b06e3ac2a6041e22  usr/include/X11/extensions/xf86dgaconst.h
+29437d4b54274db800d65f60592477d1  usr/include/X11/extensions/xf86dgaproto.h
+42f3c72c74abe50904fa9188c93dd399  usr/include/X11/extensions/xf86dgastr.h
+0584963c681f6e6ad641fad33cd1f66c  usr/lib/pkgconfig/xf86dgaproto.pc
+7cae2a6d4d70f20e43b7f9f69ac3097d  usr/share/doc/x11proto-xf86dga-dev/changelog.Debian.gz
+578cd25c7db1c5550622a64af6bd7e6b  usr/share/doc/x11proto-xf86dga-dev/copyright

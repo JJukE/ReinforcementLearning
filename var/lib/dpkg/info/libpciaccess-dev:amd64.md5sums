@@ -1,0 +1,4 @@
+1cd0e24f8d5f3d88a32a12c97dcb7ca5  usr/include/pciaccess.h
+363a86a400a291c3e28a1843b73f5b19  usr/lib/x86_64-linux-gnu/libpciaccess.a
+66cedf8395f567c603073eb7b6600444  usr/lib/x86_64-linux-gnu/pkgconfig/pciaccess.pc
+2a986195bd32264e1b2d36c39c95f26d  usr/share/doc/libpciaccess-dev/copyright

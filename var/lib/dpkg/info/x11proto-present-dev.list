@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/pkgconfig
+/usr/share/pkgconfig/presentproto.pc
+/usr/share/doc
+/usr/share/doc/x11proto-present-dev
+/usr/share/doc/x11proto-present-dev/presentproto.txt.gz
+/usr/share/doc/x11proto-present-dev/copyright
+/usr/share/doc/x11proto-present-dev/changelog.Debian.gz
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/presentproto.h
+/usr/include/X11/extensions/presenttokens.h

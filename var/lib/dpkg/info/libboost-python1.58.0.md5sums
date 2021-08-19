@@ -1,0 +1,5 @@
+da7d64af70aecef6ba7c1066f6ff3b1b  usr/lib/x86_64-linux-gnu/libboost_python-py27.so.1.58.0
+4bdf59f8f55d20aaa3b6a584b60bbe8c  usr/lib/x86_64-linux-gnu/libboost_python-py35.so.1.58.0
+0a09d34a9b60edb901b3a8a9d3ec9b12  usr/share/doc/libboost-python1.58.0/changelog.Debian.gz
+2f516f3e3c0736b25cc324033945e8ad  usr/share/doc/libboost-python1.58.0/copyright
+791c79a8efd0b7ca209fdcc37943abc7  usr/share/lintian/overrides/libboost-python1.58.0

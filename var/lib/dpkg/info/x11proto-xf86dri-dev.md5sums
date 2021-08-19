@@ -1,0 +1,6 @@
+86e207e17bb0f060774c8ddd3a6fb467  usr/include/X11/dri/xf86dri.h
+4f17c6bf2b99edd3256508b96c367e1c  usr/include/X11/dri/xf86driproto.h
+5a41f121da01ec61c9c2746292ee1783  usr/include/X11/dri/xf86dristr.h
+d4b377ef4055005195c3150e285bbb17  usr/share/doc/x11proto-xf86dri-dev/changelog.Debian.gz
+8cc150e2e43b769f506346b2d0c8edc3  usr/share/doc/x11proto-xf86dri-dev/copyright
+e3fcfa063cb7414588b60c30215a6b17  usr/share/pkgconfig/xf86driproto.pc

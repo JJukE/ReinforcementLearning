@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/include
+/usr/include/mirplatform
+/usr/include/mirplatform/mir_toolkit
+/usr/include/mirplatform/mir_toolkit/mesa
+/usr/include/mirplatform/mir_toolkit/mesa/platform_operation.h
+/usr/include/mirplatform/mir_toolkit/mesa/native_display.h
+/usr/share
+/usr/share/doc
+/usr/share/doc/mir-client-platform-mesa-dev
+/usr/share/doc/mir-client-platform-mesa-dev/copyright
+/usr/share/doc/mir-client-platform-mesa-dev/changelog.Debian.gz
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/x86_64-linux-gnu/pkgconfig/mir-client-platform-mesa.pc
